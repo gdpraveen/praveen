@@ -1,4 +1,0 @@
-hyderabad
-vizag
-chennai
-bangalore
