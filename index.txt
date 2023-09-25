@@ -1,261 +1,240 @@
-Jack - personal portfolio
+vCard - Personal Portfolio
 
-# HEDER
+# sidebar
 
-Jack.
+alt = Richard hanrick
+Richard hanrick
+Web developer
 
-En
-Ar
+Show Contacts
 
-aria-label = Change Theme
-title = Change Theme
+Email
+richard@example.com
 
-aria-label = Toggle Menu
-title = Toggle Menu
+Phone
++1 (213) 352-2795
 
-Home.
-About.
-Skills.
-Portfolio.
-Contact.
+Birthday
+June 23, 1982
 
+Location
+Sacramento, California, USA
 
+# navbar
 
-# HERO
+About
+Resume
+Portfolio
+Blog
+Contact
 
-alt = A man in a blue shirt with a happy expression
-
-We Design & Build Creative Products
-
-Get in touch
-
-<ion-icon name="logo-facebook"></ion-icon>
-Facebook
-
-<ion-icon name="logo-twitter"></ion-icon>
-Twitter
-
-<ion-icon name="logo-linkedin"></ion-icon>
-Linkedin
-
-Scroll
-
-
-
-# STATS
-
-alt = Badge icon
-
-12+
-Years of Experience
-
-<ion-icon name="chevron-forward-outline"></ion-icon>
-
-alt = Checkmark icon
-
-230+
-Completed Projects
-
-alt = Peoples rating icon
-
-95+
-Happy Clients
-
-
-
-# ABOUT
-
-alt = A man in a alice blue shirt with a thinking expression
+# about
 
 About me
 
-Need a Creative Product? I can Help You!
+I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
-Hi! I’m Jack Reacher, and I’m a developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
-
-Hire me
-
-Download cv
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
 
 
+## service
 
-# SKILLS
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+
+## testimonials
+
+Testimonials
+
+alt = Daniel lewis
+Daniel lewis
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Jessica miller
+Jessica miller
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Emily evans
+Emily evans
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Henry william
+Henry william
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+University school of the arts
+2007 — 2008
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+
+New york academy of art
+2006 — 2007
+Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+
+High school of art and design
+2002 — 2004
+Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+
+Experience
+
+Creative director
+2015 — Present
+Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+
+Art director
+2013 — 2015
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+
+Web designer
+2010 — 2013
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
 My skills
 
-What My Programming Skills Included?
-
-I develop simple, intuitive and responsive user interface that helps users get things done with less effort and time with those technologies.
-
-Skills
-Tools
-
-HTML5
-alt = HTML5 logo
-
-CSS3
-alt = CSS3 logo
-
-JavaScript
-alt = JavaScript logo
-
-TypeScript
-alt = TypeScript logo
-
-jQuery
-alt = jQuery logo
-
-Bootstrap
-alt = Bootstrap logo
-
-Angular
-alt = Angular logo
-
-React
-alt = React logo
-
-Vue
-alt = Vue logo
-
-Firebase
-alt = Firebase logo
-
-PugJs
-alt = PugJs logo
-
-SASS
-alt = SASS logo
-
-
-Ajax
-alt = Ajax logo
-
-Gulp
-alt = Gulp logo
-
-Webpack
-alt = Webpack logo
-
-Git
-alt = Git logo
-
-Npm
-alt = Npm logo
-
-Command Line
-alt = Command Line logo
-
-VS Code
-alt = VS Code logo
-
-Trello
-alt = Trello logo
-
-ClickUp
-alt = ClickUp logo
-
-Slack
-alt = Slack logo
-
-Photoshop
-alt = Photoshop logo
-
-Adobe XD
-alt = Adobe XD logo
+Web design
+80%
+Graphic design
+70%
+Branding
+90%
+WordPress
+50%
 
 
 
-# WOKRS
+# portfolio
 
-My Works
+Portfolio
 
-See My Works Which Will Amaze You!
+All
+Web design
+Applications
+Web development
 
-We develop the best quality website that serves for the long-term. Well-documented, clean, easy and elegant interface helps any non-technical clients.
+Select category
+All
+Web design
+Applications
+Web development
 
-alt = A macintosh on a yellow background.
-Lorem Ipsum Dolor 01
-April 2022
+alt = finance
+Finance
+Web development
 
-alt = On a Blue background, a Wacom and a mouse.
-Lorem Ipsum Dolor 02
+alt = orizon
+Orizon
+Web development
 
-alt = A Cassette tape on a mellow apricot background.
-Lorem Ipsum Dolor 03
+alt = fundo
+Fundo
+Web design
 
-alt = Blue digital watch on a dark liver background.
-Lorem Ipsum Dolor 04
+alt = brawlhalla
+Brawlhalla
+Applications
 
-alt = On a dark liver background, Airport luggage car carrying a luggage.
-Lorem Ipsum Dolor 05
+alt = dsm.
+DSM.
+Web design
 
-alt = On a yellow background, a digital watch and a glass.
-Lorem Ipsum Dolor 06
+alt = metaspark
+MetaSpark
+Web design
 
-alt = A fujifilm instant camera on a dark electric blue background.
-Lorem Ipsum Dolor 07
+alt = summary
+Summary
+Web development
 
-Load more work
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
 
 
 
-# CONTACT
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
 
 Contact
 
-Have You Any Project? Please Drop a Message
+Contact Form
 
-Get in touch and let me know how i can help. Fill out the form and i’ll be in touch as soon as possible.
+Full name
+Email address
+Your Message
 
-<ion-icon name="location-outline"></ion-icon>
-Address:
-941 Saqrqorish Road, alandalos, grnata, wa 47122-4194
-
-<ion-icon name="call-outline"></ion-icon>
-Phone:
-(01) 234 567 789
-(09) 765 432 200
-
-<ion-icon name="mail-outline"></ion-icon>
-Email:
-info@jack.com
-support@jack.com
-
-<ion-icon name="logo-facebook"></ion-icon>
-<ion-icon name="logo-twitter"></ion-icon>
-<ion-icon name="logo-linkedin"></ion-icon>
-<ion-icon name="logo-youtube"></ion-icon>
-
-Name
-<ion-icon name="person-circle"></ion-icon>
-placeholder = e.g John Doe
-
-Email
-<ion-icon name="mail"></ion-icon>
-placeholder = e.g johndoe@mail.com
-
-Phone
-<ion-icon name="call"></ion-icon>
-placeholder = Phone Number
-
-Message
-<ion-icon name="chatbubbles"></ion-icon>
-placeholder = Write message...
-
-Send
-
-
-
-# FOOTER
-
-Jack.
-
-&copy; 2022 codewithsadee. All rights reserved
-
-
-
-# GO TO TOP
-
-title = Go to Top
-
-<ion-icon name="arrow-up"></ion-icon>
+Send Message
