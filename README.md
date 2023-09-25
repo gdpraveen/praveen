@@ -1,3 +1,4 @@
+<<<< HEAD
 <div align="center">
 
 # vCard - Personal portfolio
@@ -17,3 +18,6 @@ vCard is a fully responsive personal portfolio website, responsive for all devic
 ## License
 
 This project is **free to use** and does not contains any license.
+=======
+# praveen
+>>>>>>> 9c95429ad5e3afbfb05cabd9578c0773c2c8c5fb
